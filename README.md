@@ -1,5 +1,5 @@
 # Virtual Desktop Assistant
-
+![Virtual Assistant GUI](./BumbleBee.gif)
 
 ## Overview
 This **Virtual Desktop Assistant** is a powerful AI-driven application designed to enhance user productivity through voice commands. It is a desktop application that starts automatically at system boot, providing hands-free control over various system functionalities and external services.
