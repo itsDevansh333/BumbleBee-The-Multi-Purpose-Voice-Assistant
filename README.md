@@ -62,23 +62,6 @@ This **Virtual Desktop Assistant** is a powerful AI-driven application designed 
 
 ---
 
-## Installation
-1. Clone this repository:
-    ```
-    git clone https://github.com/your-repo/virtual-desktop-assistant.git
-    ```
-2. Install required dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-3. Set the application to run at system boot using:
-    - Task Scheduler (Windows)
-    - Startup folder (Windows)
-
-4. Configure database credentials and notification service settings in `config.json`.
-
----
-
 ## Usage
 - Use the wake word to activate the assistant.
 - Speak commands like:
@@ -106,16 +89,12 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-## License
-This project is licensed under the **MIT License**.
 
----
 
 ## Contact
 For queries, suggestions, or issues, feel free to reach out at:
-- 📧 Email: your-email@example.com
-- 🌐 GitHub: [YourGitHubProfile](https://github.com/your-profile)
-
+- 📧 Email: pdevansh1010@gmail.com
+- 🌐 GitHub: https://github.com/itsDevansh333/itsDevansh333
 ---
 
 **Made with ❤️ for Seamless Desktop Automation**
